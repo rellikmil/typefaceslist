@@ -1,7 +1,7 @@
 # typefaceslist
 List of free and open source fonts with **available sources** (sorry, only for LGC)
 
-Please contribute new fonts in Issues
+Please contribute new fonts in Issues (Serif, sans, slab, display in work)
 
 P.S. Pictures, licenses and authors will come later
 
