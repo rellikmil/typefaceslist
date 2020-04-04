@@ -20,7 +20,7 @@ Programming fonts
 | [Hack](https://sourcefoundry.org/hack/) | Based on Bitstream Vera Mono | +/+/+ | - | UFO | Dotted |
 | [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) | --- | +/+/+ | - | UFO (Robofont) | Dotted |
 | [Hasklig](https://github.com/i-tu/Hasklig) | Source Code Pro fork with ligatures support | +/+/+ | + | UFO | Dotted |
-| [Inconsolata LGC](https://github.com/MihailJP/Inconsolata-LGC) | Influenced by the Consolas, Avenir and Letter Gothic | +/+/+ | - | FontForge | Dotted |
+| [Inconsolata LGC](https://github.com/MihailJP/Inconsolata-LGC) | Influenced by the Consolas, Avenir and Letter Gothic | +/+/+ | - | FontForge | Slashed |
 | [JetBrains Mono](https://www.jetbrains.com/lp/mono/) | Font with increased letter height | +/-/+ | + | Fontlab | Dotted |
 | [Mononoki](https://github.com/madmalik/mononoki) | --- | +/+/+ | - | Glyphs | Slashed |
 | [3270](https://github.com/rbanffy/3270font) | Font as in IBM 3270 terminal | +/-/+ | - | FontForge | Dotted |
