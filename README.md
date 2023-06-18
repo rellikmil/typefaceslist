@@ -14,7 +14,7 @@ Programming fonts
 | [Iosevka](https://typeof.net/Iosevka/) | Expanded typeface with many heights, based on PragmataPro | +/+/+ | + | Code (JS(?)) | Both |
 | [Anka/Coder](https://github.com/loafer-mka/anka-coder-fonts) | --- | +/+/+ | - | FontForge | Slashed |
 | [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro) | --- | +/+/+ | - | Fontlab | Slashed |
-| [Brutalist Mono](https://github.com/stlee42/Brutalist) | --- | +/+/+ | - | FontForge | Slashed |
+| [Brutalist Mono](https://github.com/stlee42/Brutalist) | Based on DejaVu Sans Mono | +/+/+ | - | FontForge | Slashed |
 | [Cascadia Code](https://github.com/microsoft/cascadia-code) | --- | +/+/+ | + | UFO (Glyphs) | Dotted |
 | [Fairfax HD](http://www.kreativekorp.com/software/fonts/fairfaxhd.shtml) | Supports very large number of glyphs | +/+/+ | + | FontForge | Slashed |
 | [Fira Code](https://github.com/tonsky/FiraCode) | Popular font, based on Fira Mono | +/+/+ | + | Glyphs | Both |
